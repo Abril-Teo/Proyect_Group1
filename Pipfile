@@ -4,6 +4,10 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+numpy = "==1.24.3"
+opencv-python = "==4.7.0.72"
+pillow = "==9.5.0"
+pytesseract = "==0.3.10"
 
 [dev-packages]
 
